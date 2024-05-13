@@ -1,0 +1,5 @@
+| # | contributor | contribution | transcript | attestation |
+| --- | --- | --- | --- | --- |
+| 0000 | (init) | [normal_0000.zkey](https://storage.googleapis.com/trusted-setup.v1.zktrue-up.ts.finance/normal_0000.zkey) | [normal_0000.zkey.verification_transcript](https://storage.googleapis.com/trusted-setup.v1.zktrue-up.ts.finance/normal_0000.zkey.verification_transcript) |  |
+
+<!-- | 0001 | <name> | [normal_0001.zkey](https://storage.googleapis.com/trusted-setup.v1.zktrue-up.ts.finance/normal_0001.zkey) | [normal_0001.zkey.verification_transcript](https://storage.googleapis.com/trusted-setup.v1.zktrue-up.ts.finance/normal_0001.zkey.verification_transcript) | [Attestation](../attestations/<name>.attestation) | -->
