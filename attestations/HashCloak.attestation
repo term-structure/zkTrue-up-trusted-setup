@@ -1,0 +1,13 @@
+Title: The attestation for the contribution of the zkTureup circuits.
+
+Organizer: Term Structure Labs
+
+Contributor Name: Mikerah.HashCloak
+Date: 2024-05-14 11:52:51
+
+The ETH transaction hash for storing the declaration of the random beacon:
+1ac72f51dec26094b9c752d4ae02c375df87b67d09ac1ba00d6d41d632282ece
+Blake2b hashes of the output/normal_0001.zkey:
+1125122985a2ed5c597970635e6f0063d9b1e662d28a7f8e299e22d0a726ab6cad054bc678c61a1a90c5ed30d8bdda37922c7439227109d1fa27ed364f593332
+Blake2b hashes of the output/evacu_0001.zkey:
+ab620b2efb7fb8a002b21c369bbcf02f770df9ab0a4a58e96162207d7755cc4505fa028a3b14db25b53d91ca08c2e9dabf5b6a4c74a1ab2cec198d964028f0ef
