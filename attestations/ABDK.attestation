@@ -1,0 +1,13 @@
+Title: The attestation for the contribution of the zkTureup circuits.
+
+Organizer: Term Structure Labs
+
+Contributor Name: Dmitry.ABDK
+Date: 2024-05-15 18:17:04
+
+The ETH transaction hash for storing the declaration of the random beacon:
+1ac72f51dec26094b9c752d4ae02c375df87b67d09ac1ba00d6d41d632282ece
+Blake2b hashes of the output/normal_0002.zkey:
+5b50e231f4bae33090872c4c2dcffe2d9d09d702cbaf7ea696e6e870d4738b261afcdb159d9d240cd12db2592275a599e33ced0a197da49ca8a1b132f3eb9147
+Blake2b hashes of the output/evacu_0002.zkey:
+ca3c0595fdbaf944e3392a826a1be12774420c8bf2ef80048571457ab69e95d7e26bc60c0b5931e24e0803261e20c95fd58e514a6cba4d17b8b986ec23eadbc4
